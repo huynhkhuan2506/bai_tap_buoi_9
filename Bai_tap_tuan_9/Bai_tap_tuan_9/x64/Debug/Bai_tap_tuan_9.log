@@ -1,0 +1,4 @@
+﻿  Bai_tap_tuan_9.cpp
+E:\HVUH\School_year_1\Semester_2\Programming_base\C++\Practice\Day_9_(11.4.2023)\Bai_tap_tuan_9\Bai_tap_tuan_9\Bai_tap_tuan_9.cpp(65,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\HVUH\School_year_1\Semester_2\Programming_base\C++\Practice\Day_9_(11.4.2023)\Bai_tap_tuan_9\Bai_tap_tuan_9\Bai_tap_tuan_9.cpp(101,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Bai_tap_tuan_9.vcxproj -> E:\HVUH\School_year_1\Semester_2\Programming_base\C++\Practice\Day_9_(11.4.2023)\Bai_tap_tuan_9\x64\Debug\Bai_tap_tuan_9.exe
